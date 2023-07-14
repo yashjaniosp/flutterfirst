@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321788639162",
+    "project_id": "fauth-c5718",
+    "storage_bucket": "fauth-c5718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321788639162:android:97430bf6c790b5f1b7cf83",
+        "android_client_info": {
+          "package_name": "com.example.flutterauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321788639162-67rphjf9niborlq734p32vshbi25lj6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIOokLiQZ6jbkWBwtVtSDbnXvvhiLGHJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321788639162-67rphjf9niborlq734p32vshbi25lj6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
